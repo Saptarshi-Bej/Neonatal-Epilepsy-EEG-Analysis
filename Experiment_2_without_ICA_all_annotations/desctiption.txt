@@ -1,1 +1,2 @@
-
+- We did not use ICA-based preprocessing for this experiment
+- We used annotations of all doctors to extract our chunks
